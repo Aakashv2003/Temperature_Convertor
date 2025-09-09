@@ -1,0 +1,26 @@
+body{
+    padding: 50px 100px;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+    padding: 50px;
+    background-color: burlywood;
+}
+.input-div{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+}
